@@ -174,7 +174,8 @@
   color: rgb(253, 87, 36);
 }
 .overlay-inner .inner-box h4{
-  color: blue;
+  color: rgb(0, 0, 0);
+  font-weight: lighter;
 }
 .overlay-inner .inner-box button{
   outline: none;

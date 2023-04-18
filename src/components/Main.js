@@ -31,6 +31,7 @@ function Main({imageLinks, title, authors, description, pageCount, link }) {
                  <div className="info">
                      <h1>{title}</h1>
                      <h3>{authors}</h3>
+                     <h4>{pageCount} pages</h4>
                      
                      <a href={link}><button>More</button></a>
                  </div>
